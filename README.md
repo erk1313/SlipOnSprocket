@@ -58,7 +58,8 @@ With the 32t setup, I have about 0.18" more travel in the horizontal dropout.  S
 ### Photo Gallery
 <img src="https://i.imgur.com/5nRr9sL.png" height="100"/>
 <img src="https://i.imgur.com/Bt8BAmj.png" height="100"/>
-[Video of a 4-yr with a 32t Slip-on Sprocket installed](https://github.com/eyuan-creare/SlipOnSprocket/blob/master/Photos/SlipOn_46-32t.mp4)
+
+[Video of a 4-yr with a 32t Slip-on Sprocket installed](Photos/SlipOn_46-32t.mp4)
 
 ### Notes
 Rev-A: The first run was a batch of 3 parts.  The clearance between the existing sprocket and the matching interior of the slip-on sprocket was 0.005" (radially). This fit perfect!  All three parts were tested on my 2020 Seeker, as well as an old hub I bought off a member, which had a screw on hub instead of the current spline. I was actually surprised.  YMMV as I used a cheap Chinese fabricator with no specified tolerance on machining (to keep cost down).  They inner face was also bead blasted, which could have helped.  If needed, the design might fit more universally with a 0.007"-0.010" clearance and making up the slop with a expandable pin. 
