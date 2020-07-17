@@ -15,7 +15,7 @@ Here's how the gain ratio of popular 16" bikes stack up.  Lower ratios make it e
 |Islabike Cnoc     |3.52        |25/14t       |102mm          |401mm*   ||
 |Priority Start    |3.38        |?            |?              |?        |Gain Ratio listed on [Priority Start](https://www.prioritybicycles.com/products/startfw2) |
 |Commencal Ramones |3.12        |28/16t       |114mm          |407mm**  ||
-|Cleary Hedgehog   |3.09        |25/16t       |102mm          |404mm*   ||
+|Cleary Hedgehog   |3.09        |25/16t       |102mm          |404mm*   |Flip-flop hub with 14t would result in Gain Ration of 3.54 (like a Woom 3)|
 |Early Rider (Seeker)|2.97      |46/30t **CUSTOM**|105mm      |407mm**  ||
 |Early Rider (Seeker)|2.79      |46/32t **CUSTOM**|105mm      |407mm**  ||
 
